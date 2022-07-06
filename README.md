@@ -3,6 +3,6 @@
 
 - 💼 I've worked with Shockbyte for the past two years in both the public relations and support departments.
 
-- 📚 I'm currently working on learning VueJS and really enjoy software development.
+- 📚 I'm currently working on learning full stack development, starting with VueJS for frontend and NestJS for backend.
 
 - 🔔 You can reach me on Discord: `xEvan#4750`
